@@ -2,5 +2,5 @@
 
 | 차시 |    날짜    | 문제유형 | 링크 | 풀이 |
 |:----:|:---------:|:----:|:-----:|:----:|
-| 1차시 | 2024.02.12 |  DP  | [평범한 배낭](https://www.acmicpc.net/problem/12865)  | [#3](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/3#issue-2205834078)|
+| 1차시 | 2024.03.24 |  DP  | [평범한 배낭](https://www.acmicpc.net/problem/12865)  | [#3](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/3#issue-2205834078)|
 ---
