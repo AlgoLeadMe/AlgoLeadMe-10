@@ -13,14 +13,14 @@ int main()
     cin >> n;
     string postfix;  
     cin >> postfix;
-    double arr[26] = {0};
-    for (int i = 0; i < n; i++) //알파벳에 해당하는 값 저장해놓기
-        cin >> arr[i];
+    double alphabet[26] = {0};
+    for (int i = 0; i < n; i++) //피연산자(알파벳)에 대응되는 값 저장해놓기
+        cin >> alphabet[i];
 
     for (int i = 0; i < postfix.length(); i++)
     {
         if (postfix[i] >= 'A' && postfix[i] <= 'Z') //피연산자라면 해당 값 push
-            s.push(arr[postfix[i] - 'A']);
+            s.push(alphabet[postfix[i] - 'A']);
 
         else //연산자를 만난다면 스택의 top 2개를 꺼내어 연산 수행후 해당 값 push
         {
