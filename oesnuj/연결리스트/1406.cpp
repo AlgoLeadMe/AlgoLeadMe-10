@@ -10,7 +10,7 @@ int main()
     for (auto c : str) //한 문자씩 연결리스트에 넣기
         li.push_back(c);
 
-    list<char>::iterator it = li.end();
+    list<char>::iterator cursor = li.end();
     int t;
     cin >> t;
     while(t--)
@@ -19,27 +19,27 @@ int main()
         cin >> input;
         if (input == 'L')
         {
-            if (it != li.begin())
-                it--;
+            if (cursor != li.begin())
+                cursor--;
         }
         else if (input == 'D')
         {
-            if (it != li.end())
-                it++;
+            if (cursor != li.end())
+                cursor++;
         }
         else if (input == 'B')
         {
-            if (it != li.begin())
+            if (cursor != li.begin())
             {
-                it--;
-                it = li.erase(it);
+                cursor--;
+                cursor = li.erase(cursor);
             }   
         }
         else if (input == 'P')
         {
             char insertChar;
             cin >> insertChar;
-            li.insert(it, insertChar);
+            li.insert(cursor, insertChar);
         }
     }
     
