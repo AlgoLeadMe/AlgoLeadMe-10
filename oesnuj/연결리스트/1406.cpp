@@ -39,8 +39,7 @@ int main()
         {
             char insertChar;
             cin >> insertChar;
-            it = li.insert(it, insertChar);
-            it++;
+            li.insert(it, insertChar);
         }
     }
     
