@@ -9,4 +9,5 @@
 | 5차시 | 2024.04.13 | 이분탐색  | [듣보잡](https://www.acmicpc.net/problem/1764)  | [#20](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/20) |
 | 6차시 | 2024.05.06 | 기하학  | [정사각형](https://www.acmicpc.net/problem/1485)  | [#22](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/22) |
 | 7차시 | 2024.05.08 | 스택, 큐, 덱 | [queuestack](https://www.acmicpc.net/problem/24511)  | [#24](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/24) |
+| 8차시 | 2024.05.13 | 우선순위 큐 | [카드 정렬하기](https://www.acmicpc.net/problem/1715)  | [#27](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/27) |
 ---
