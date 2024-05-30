@@ -10,4 +10,5 @@
 | 6차시 | 2024.05.06 | 기하학  | [정사각형](https://www.acmicpc.net/problem/1485)  | [#22](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/22) |
 | 7차시 | 2024.05.08 | 스택, 큐, 덱 | [queuestack](https://www.acmicpc.net/problem/24511)  | [#24](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/24) |
 | 8차시 | 2024.05.13 | 우선순위 큐 | [카드 정렬하기](https://www.acmicpc.net/problem/1715)  | [#27](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/27) |
+| 9차시 | 2024.05.30 | 구현 | [빙고](https://www.acmicpc.net/problem/2578)  | [#30](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/30) |
 ---
