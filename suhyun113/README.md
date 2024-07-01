@@ -8,3 +8,4 @@
 | 4차시 | 2024.04.06 |  DP  | [피보나치 수 5](https://www.acmicpc.net/problem/10870)  | [#16](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/16) |
 | 5차시 | 2024.04.10 |  스택  | [크레인 인형 뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)  | [#19](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/19) |
 | 6차시 | 2024.04.14 |  스택  | [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)  | [#21](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/21) |
+| 7차시 | 2024.05.09 |  트리  | [원숭이 매달기](https://www.acmicpc.net/problem/2716)  | [#31](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/31) |
