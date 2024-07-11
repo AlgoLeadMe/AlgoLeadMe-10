@@ -8,4 +8,5 @@
 | 4차시 | 2024.04.08 |  스택  | [제로](https://www.acmicpc.net/problem/10773)  | [#15](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/15#issue-2229909173)
 | 5차시 | 2024.04.10 |  그리디 알고리즘  | [국회의원 선거](https://www.acmicpc.net/problem/1417)  | [#18](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/18#issue-2235862658)
 | 6차시 | 2024.05.10 |  그리디 알고리즘  | [ATM](https://www.acmicpc.net/problem/11399)  | [#25](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/25#issue-2289086909)
-| 7차시 | 2024.05.10 |  완전 탐색 알고리즘  | [영화감독 숌](https://www.acmicpc.net/problem/1436)  | [#26](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/26#issue-2289132707)
+| 7차시 | 2024.05.10 |  완전 탐색 알고리즘  | [영화감독 숌](https://www.acmicpc.net/problem/1436)  | [#26](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/25#issue-2289086909)
+| 8차시 | 2024.05.14 |  그리디 알고리즘  | [팔](https://www.acmicpc.net/problem/1105)  | [#28](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/28#issue-2295901384)
