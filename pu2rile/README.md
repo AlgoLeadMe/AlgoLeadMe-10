@@ -10,3 +10,5 @@
 | 6차시 | 2024.05.10 |  그리디 알고리즘  | [ATM](https://www.acmicpc.net/problem/11399)  | [#25](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/25#issue-2289086909)
 | 7차시 | 2024.05.10 |  완전 탐색 알고리즘  | [영화감독 숌](https://www.acmicpc.net/problem/1436)  | [#26](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/25#issue-2289086909)
 | 8차시 | 2024.05.14 |  그리디 알고리즘  | [팔](https://www.acmicpc.net/problem/1105)  | [#28](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/28#issue-2295901384)
+| 9차시 | 2024.05.27 |  구현  | [오늘도 졌다](https://www.acmicpc.net/problem/14582)  | [#29](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/29#issue-2320060288)
+| 10차시 | 2024.07.11 |  스택  | [화학식량](https://www.acmicpc.net/problem/2257)  | [#34]()
