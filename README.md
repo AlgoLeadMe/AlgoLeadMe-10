@@ -49,13 +49,11 @@
   <tr>
     <td align="center"><a href="https://github.com/oesnuj"><img src="https://avatars.githubusercontent.com/u/112786665?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/pu2rile"><img src="https://avatars.githubusercontent.com/u/163822282?v=4" width="100px;" alt=""/>
-    <td align="center"><a href="https://github.com/honggukang0623"><img src="https://avatars.githubusercontent.com/u/137487445?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/suhyun113"><img src="https://avatars.githubusercontent.com/u/163711629?v=4" width="100px;" alt=""/>
   </tr>
     <tr>
     <td align="center"><a href="https://github.com/oesnuj" title="Code">oesnuj</a></td>
     <td align="center"><a href="https://github.com/pu2rile" title="Code">pu2rile</a></td>
-    <td align="center"><a href="https://github.com/honggukang0623" title="Code">honggukang0623</a></td>
     <td align="center"><a href="https://github.com/suhyun113" title="Code">suhyun113</a></td>
   </tr>
 </table>
