@@ -12,5 +12,5 @@
 | 8차시 | 2024.05.13 | 우선순위 큐 | [카드 정렬하기](https://www.acmicpc.net/problem/1715)  | [#27](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/27) |
 | 9차시 | 2024.05.30 | 구현 | [빙고](https://www.acmicpc.net/problem/2578)  | [#30](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/30) |
 | 10차시 | 2024.07.04 | 구현 | [상어초등학교](https://www.acmicpc.net/problem/21608)  | [#34](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/34) |
-| 11차시 | 2024.07.18 | 매개 변수 탐색 | [랜선 자르기](https://www.acmicpc.net/problem/1654)  | [#38](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/38) |
+| 11차시 | 2024.07.18 | 이분 탐색 | [랜선 자르기](https://www.acmicpc.net/problem/1654)  | [#38](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/38) |
 ---
