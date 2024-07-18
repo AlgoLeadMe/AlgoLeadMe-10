@@ -74,4 +74,3 @@ function calcSatisfy(){
 		}
 	}
 	return result;
-}
