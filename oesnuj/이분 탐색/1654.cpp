@@ -8,11 +8,11 @@ int binary_serach(vector <int>& v, int n);
 int main() {
     int k, n;
     cin >> k >> n;
-    vector <int> trees(k);
-    for (auto& i : trees) {
+    vector <int> v(k);
+    for (auto& i : v) {
         cin >> i;
     }
-    cout << binary_serach(trees, n);
+    cout << binary_serach(v, n);
     return 0;
 }
 
