@@ -9,7 +9,7 @@ void RecurMoveDisks(int n, int from, int temp, int to) {
     RecurMoveDisks(n - 1, from, to, temp);
 
     //남은 1개의 원판으로 to로 옮긴다. <- 이때 옮기는 과정 출력
-    cout << from + 1 << " " << to + 1 << "\n";
+    cout << from << " " << to << "\n";
 
     //temp에 있던 n-1개의 원판을 n-1개로 옮긴다.
     RecurMoveDisks(n - 1, temp, from, to);
@@ -28,6 +28,6 @@ int main() {
     cout << cnt << "\n";
 
     //조건에 맞는 경우에만 재귀를 돌린다.
-    if (n <= 20)  RecurMoveDisks(n, 0, 1, 2);
+    if (n <= 20)  RecurMoveDisks(n, 1, 2, 3);
     return 0;
 }
