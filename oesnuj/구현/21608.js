@@ -74,5 +74,3 @@ function calcSatisfy(){
 		}
 	}
 	return result;
-}
-출처: https://oesnuj.tistory.com/entry/Nodejs-백준-Javascript-21608-상어-초등학교 [비트로 그리는 성장일기:티스토리]
