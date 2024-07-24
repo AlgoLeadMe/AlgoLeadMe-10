@@ -13,4 +13,5 @@
 | 9차시 | 2024.05.30 | 구현 | [빙고](https://www.acmicpc.net/problem/2578)  | [#30](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/30) |
 | 10차시 | 2024.07.04 | 구현 | [상어초등학교](https://www.acmicpc.net/problem/21608)  | [#34](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/34) |
 | 11차시 | 2024.07.18 | 이분 탐색 | [랜선 자르기](https://www.acmicpc.net/problem/1654)  | [#38](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/38) |
+| 12차시 | 2024.07.24 | 재귀 | [하노이 탑](https://www.acmicpc.net/problem/1914)  | [#41](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/41) |
 ---
