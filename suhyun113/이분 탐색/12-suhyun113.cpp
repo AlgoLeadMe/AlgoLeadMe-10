@@ -6,7 +6,7 @@ using namespace std;
 
 // 절단기에 지정한 나무의 높이 H로 나무를 자름
 // H보다 크면 자르기(작으면, 값이 0 또는 음수로 나옴)
-bool  canCut(vector<int>& trees, int H, int M) {
+bool  can_cut(vector<int>& trees, int H, int M) {
 	long long total = 0; // 자른 나무들의 총 합
 	for (int tree : trees) {
 		if (tree > H) {
@@ -23,7 +23,7 @@ int binary_search(vector<int>& trees, int M) {
 	while (lo + 1 < hi) {
 		int mid = (lo + hi) / 2; // 중앙값 저장
 
-		if (canCut(trees, mid, M)) { // 절단기 높이 변경
+		if (can_cut(trees, mid, M)) { // 절단기 높이 변경
 			lo = mid; // 현재의 절단기 높이를 가능한 최소 높이로 저장(중앙값 더 커짐)
 		}
 		else {
