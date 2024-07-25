@@ -13,3 +13,4 @@
 | 9차시 | 2024.05.28 |  다익스트라  | [최소비용 구하기](https://www.acmicpc.net/problem/1916)  | [#33](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/33) |
 | 10차시 | 2024.07.13 |  플로이드-워셜  | [플로이드](https://www.acmicpc.net/problem/11404)  | [#36](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/36) |
 | 11차시 | 2024.07.16 |  BFS  | [연구소](https://www.acmicpc.net/problem/14502)  | [#39](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/39) |
+| 12차시 | 2024.07.24 |  이분 탐색  | [나무 자르기](https://www.acmicpc.net/problem/2805)  | [#42](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/42) |
