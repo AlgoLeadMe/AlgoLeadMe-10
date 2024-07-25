@@ -6,7 +6,7 @@ using namespace std;
 
 // 절단기에 지정한 나무의 높이 H로 나무를 자름
 // H보다 크면 자르기(작으면, 값이 0 또는 음수로 나옴)
-bool  can_cut(vector<int>& trees, int H, int M) {
+bool can_cut(vector<int>& trees, int H, int M) {
 	long long total = 0; // 자른 나무들의 총 합
 	for (int tree : trees) {
 		if (tree > H) {
