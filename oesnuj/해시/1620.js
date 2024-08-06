@@ -15,10 +15,9 @@ pokemonList.forEach((pokemon, index) => {
 
 let result = '';
 testList.forEach(test => {
-    const num = Number(test);
-    if (!isNaN(num)) {
+    if (!isNaN(test)) {
         // 테스트 값이 번호인 경우
-        result += pokemonList[num - 1] + '\n'; // 번호에 해당하는 Pokémon 이름 추가
+        result += pokemonList[test - 1] + '\n'; // 번호에 해당하는 Pokémon 이름 추가
     } else {
         // 테스트 값이 이름인 경우
         result += pokemonMap.get(test) + '\n'; // 이름에 해당하는 Pokémon 번호 추가
