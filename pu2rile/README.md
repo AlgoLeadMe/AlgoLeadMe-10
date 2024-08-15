@@ -13,3 +13,7 @@
 | 9차시 | 2024.05.27 |  구현  | [오늘도 졌다](https://www.acmicpc.net/problem/14582)  | [#29](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/29#issue-2320060288)
 | 10차시 | 2024.07.11 |  스택  | [화학식량](https://www.acmicpc.net/problem/2257)  | [#35](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/35#issue-2403173169)
 | 11차시 | 2024.07.13 |  우선순위 큐  | [강의실](https://www.acmicpc.net/problem/1374)  | [#37](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/37#issue-2406937336)
+| 12차시 | 2024.07.23 |  동적 프로그래밍  | [1학년](https://www.acmicpc.net/problem/5557)  | [#40](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/40)
+| 13차시 | 2024.07.26 |  스택  | [후위 표기식](https://www.acmicpc.net/problem/1918)  | [#43](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/43)
+| 14차시 | 2024.08.05 |  트리  | [이진 탐색 트리](https://www.acmicpc.net/problem/5639)  | [#45](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/45)
+| 15차시 | 2024.08.15 |  트리  | [나무 탈출](https://www.acmicpc.net/problem/15900)  | [#48](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/48)
