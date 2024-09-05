@@ -17,4 +17,5 @@
 | 13차시 | 2024.07.28 | DP | [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)  | [#44](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/44) |
 | 14차시 | 2024.08.05 | 해시 | [ 나는야 포켓몬 마스터 이다솜 ](https://www.acmicpc.net/problem/1620)  | [#46](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/46) |
 | 15차시 | 2024.08.10 | 그리디 | [ 주식 ](https://www.acmicpc.net/problem/11501)  | [#47](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/47) |
+=======
 ---
