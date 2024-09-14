@@ -17,3 +17,4 @@
 | 13차시 | 2024.07.26 |  스택  | [후위 표기식](https://www.acmicpc.net/problem/1918)  | [#43](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/43)
 | 14차시 | 2024.08.05 |  트리  | [이진 탐색 트리](https://www.acmicpc.net/problem/5639)  | [#45](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/45)
 | 15차시 | 2024.08.15 |  트리  | [나무 탈출](https://www.acmicpc.net/problem/15900)  | [#48](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/48)
+| 16차시 | 2024.09.15 |  그리디 알고리즘  | [신입 사원](https://www.acmicpc.net/problem/15900)  | [#51](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/51)
