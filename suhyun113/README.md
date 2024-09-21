@@ -15,3 +15,4 @@
 | 11차시 | 2024.07.16 |  BFS  | [연구소](https://www.acmicpc.net/problem/14502)  | [#39](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/39) |
 | 12차시 | 2024.07.24 |  이분 탐색  | [나무 자르기](https://www.acmicpc.net/problem/2805)  | [#42](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/42) |
 | 16차시 | 2024.09.13 |  그리디  | [동전 0](https://www.acmicpc.net/problem/11047)  | [#49](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/49) |
+| 17차시 | 2024.09.22 |  스택  | [스택 수열](https://www.acmicpc.net/problem/1874)  | [#53](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/53) |
