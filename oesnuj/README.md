@@ -18,4 +18,5 @@
 | 14차시 | 2024.08.05 | 해시 | [ 나는야 포켓몬 마스터 이다솜 ](https://www.acmicpc.net/problem/1620)  | [#46](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/46) |
 | 15차시 | 2024.08.10 | 그리디 | [ 주식 ](https://www.acmicpc.net/problem/11501)  | [#47](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/47) |
 | 16차시 | 2024.09.13 | 구현 | [ 달력 ](https://www.acmicpc.net/problem/20207)  | [#50](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/50) |
+| 17차시 | 2024.09.21 | 구현 | [ 큰 수 A+B(2) ](https://www.acmicpc.net/problem/15353)  | [#52](https://github.com/AlgoLeadMe/AlgoLeadMe-10/pull/52) |
 ---
